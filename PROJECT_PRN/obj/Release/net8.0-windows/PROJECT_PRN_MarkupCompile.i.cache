@@ -1,0 +1,20 @@
+﻿PROJECT_PRN
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Release\net8.0-windows\
+PROJECT_PRN
+none
+false
+TRACE;RELEASE;NET;NET8_0;NETCOREAPP
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\App.xaml
+15-807807750
+1-913308027
+201472319353
+236-500887595
+CreateNotificationWindow.xaml;DetailWindow.xaml;FineInputWindow.xaml;LoginWindow.xaml;MainWindow.xaml;ManageAccountWindow.xaml;NotificationWindow.xaml;ProfileDetailWindow.xaml;RegisterWindow.xaml;ReportRejectionWindow.xaml;TrafficPolice .xaml;UpdateAccountWindow.xaml;UserVehicleWindow.xaml;ViewDetailWindow.xaml;ViolationListWindow.xaml;
+
+False
+

@@ -1,0 +1,626 @@
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\PROJECT_PRN.exe
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\PROJECT_PRN.deps.json
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\PROJECT_PRN.runtimeconfig.json
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\PROJECT_PRN.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\PROJECT_PRN.pdb
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\App.g.cs
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN_MarkupCompile.cache
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN_MarkupCompile.lref
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\MainWindow.baml
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.g.resources
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.AssemblyInfoInputs.cache
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.AssemblyInfo.cs
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.csproj.CoreCompileInputs.cache
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.dll
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\refint\PROJECT_PRN.dll
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.pdb
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.genruntimeconfig.cache
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ref\PROJECT_PRN.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\TrafficViolation.BLL.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\TrafficViolation.DAL.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\TrafficViolation.BLL.pdb
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\TrafficViolation.DAL.pdb
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.csproj.AssemblyReference.cache
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_.47B2846C.Up2Date
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\appsettings.json
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\LoginWindow.g.cs
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\LoginWindow.baml
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\App.baml
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\RegisterWindow.g.cs
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\RegisterWindow.baml
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\DetailWindow.g.cs
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\DetailWindow.baml
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ManageAccountWindow.g.cs
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ManageAccountWindow.baml
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\UpdateAccountWindow.baml
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\UpdateAccountWindow.g.cs
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.csproj.AssemblyReference.cache
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\CreateNotificationWindow.baml
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\DetailWindow.baml
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\FineInputWindow.baml
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\MainWindow.baml
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ManageAccountWindow.baml
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\NotificationWindow.baml
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\RegisterWindow.baml
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ReportRejectionWindow.baml
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\UpdateAccountWindow.baml
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ViolationListWindow.baml
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\CreateNotificationWindow.g.cs
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\DetailWindow.g.cs
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\FineInputWindow.g.cs
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\LoginWindow.g.cs
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ManageAccountWindow.g.cs
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\NotificationWindow.g.cs
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\RegisterWindow.g.cs
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ReportRejectionWindow.g.cs
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\TrafficPolice .g.cs
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\UpdateAccountWindow.g.cs
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ViolationListWindow.g.cs
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\App.g.cs
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN_MarkupCompile.cache
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN_MarkupCompile.lref
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\refint\PROJECT_PRN.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.pdb
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\PROJECT_PRN.exe
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\appsettings.json
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\PROJECT_PRN.deps.json
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\PROJECT_PRN.runtimeconfig.json
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\PROJECT_PRN.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\PROJECT_PRN.pdb
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\TrafficViolation.BLL.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\TrafficViolation.DAL.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\TrafficViolation.BLL.pdb
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\TrafficViolation.DAL.pdb
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\App.baml
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\LoginWindow.baml
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\TrafficPolice .baml
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.g.resources
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.GeneratedMSBuildEditorConfig.editorconfig
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.AssemblyInfoInputs.cache
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.AssemblyInfo.cs
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.csproj.CoreCompileInputs.cache
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_.47B2846C.Up2Date
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.genruntimeconfig.cache
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ref\PROJECT_PRN.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\PROJECT_PRN.exe
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\appsettings.json
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\PROJECT_PRN.deps.json
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\PROJECT_PRN.runtimeconfig.json
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\PROJECT_PRN.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\PROJECT_PRN.pdb
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\TrafficViolation.BLL.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\TrafficViolation.DAL.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\TrafficViolation.BLL.pdb
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\TrafficViolation.DAL.pdb
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\CreateNotificationWindow.baml
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\DetailWindow.baml
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\FineInputWindow.baml
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ManageAccountWindow.baml
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\NotificationWindow.baml
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\RegisterWindow.baml
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ReportRejectionWindow.baml
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\UpdateAccountWindow.baml
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ViolationListWindow.baml
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\CreateNotificationWindow.g.cs
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\DetailWindow.g.cs
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\FineInputWindow.g.cs
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\LoginWindow.g.cs
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ManageAccountWindow.g.cs
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\NotificationWindow.g.cs
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\RegisterWindow.g.cs
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ReportRejectionWindow.g.cs
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\TrafficPolice .g.cs
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\UpdateAccountWindow.g.cs
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ViolationListWindow.g.cs
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN_MarkupCompile.cache
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN_MarkupCompile.lref
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\App.baml
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\LoginWindow.baml
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\TrafficPolice .baml
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.g.resources
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.AssemblyInfo.cs
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_.47B2846C.Up2Date
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\refint\PROJECT_PRN.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.pdb
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.genruntimeconfig.cache
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ref\PROJECT_PRN.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ProfileDetailWindow.baml
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ProfileDetailWindow.g.cs
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\UserVehicleWindow.baml
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\UserVehicleWindow.g.cs
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\CreateNotificationWindow.baml
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\FineInputWindow.baml
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\NotificationWindow.baml
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ProfileDetailWindow.baml
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ReportRejectionWindow.baml
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\UserVehicleWindow.baml
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ViolationListWindow.baml
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\CreateNotificationWindow.g.cs
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\FineInputWindow.g.cs
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\NotificationWindow.g.cs
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ProfileDetailWindow.g.cs
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ReportRejectionWindow.g.cs
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\TrafficPolice .g.cs
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\UserVehicleWindow.g.cs
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ViolationListWindow.g.cs
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\TrafficPolice .baml
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ViewDetailWindow.baml
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ViewDetailWindow.g.cs
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\PROJECT_PRN.exe
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\appsettings.json
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\PROJECT_PRN.deps.json
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\PROJECT_PRN.runtimeconfig.json
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\PROJECT_PRN.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\PROJECT_PRN.pdb
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\TrafficViolation.BLL.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\TrafficViolation.DAL.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\TrafficViolation.BLL.pdb
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\TrafficViolation.DAL.pdb
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.csproj.AssemblyReference.cache
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\CreateNotificationWindow.baml
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\DetailWindow.baml
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\FineInputWindow.baml
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\MainWindow.baml
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ManageAccountWindow.baml
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\NotificationWindow.baml
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ProfileDetailWindow.baml
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\RegisterWindow.baml
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ReportRejectionWindow.baml
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\UpdateAccountWindow.baml
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\UserVehicleWindow.baml
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ViewDetailWindow.baml
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ViolationListWindow.baml
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\CreateNotificationWindow.g.cs
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\DetailWindow.g.cs
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\FineInputWindow.g.cs
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\LoginWindow.g.cs
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ManageAccountWindow.g.cs
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\NotificationWindow.g.cs
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ProfileDetailWindow.g.cs
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\RegisterWindow.g.cs
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ReportRejectionWindow.g.cs
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\TrafficPolice .g.cs
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\UpdateAccountWindow.g.cs
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\UserVehicleWindow.g.cs
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ViewDetailWindow.g.cs
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ViolationListWindow.g.cs
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\App.g.cs
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN_MarkupCompile.cache
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN_MarkupCompile.lref
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\App.baml
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\LoginWindow.baml
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\TrafficPolice .baml
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.g.resources
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.GeneratedMSBuildEditorConfig.editorconfig
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.AssemblyInfoInputs.cache
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.AssemblyInfo.cs
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.csproj.CoreCompileInputs.cache
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_.47B2846C.Up2Date
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\refint\PROJECT_PRN.dll
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.pdb
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.genruntimeconfig.cache
+D:\PE\FixDone\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ref\PROJECT_PRN.dll
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\LogsWindow.g.cs
+D:\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\LogsWindow.baml
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\PROJECT_PRN.exe
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\appsettings.json
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\PROJECT_PRN.deps.json
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\PROJECT_PRN.runtimeconfig.json
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\PROJECT_PRN.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\PROJECT_PRN.pdb
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\TrafficViolation.BLL.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\TrafficViolation.DAL.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\TrafficViolation.BLL.pdb
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\TrafficViolation.DAL.pdb
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.csproj.AssemblyReference.cache
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\CreateNotificationWindow.baml
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\DetailWindow.baml
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\FineInputWindow.baml
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\MainWindow.baml
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ManageAccountWindow.baml
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\NotificationWindow.baml
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ProfileDetailWindow.baml
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\RegisterWindow.baml
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ReportRejectionWindow.baml
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\UpdateAccountWindow.baml
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\UserVehicleWindow.baml
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ViewDetailWindow.baml
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ViolationListWindow.baml
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\CreateNotificationWindow.g.cs
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\DetailWindow.g.cs
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\FineInputWindow.g.cs
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\LoginWindow.g.cs
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ManageAccountWindow.g.cs
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\NotificationWindow.g.cs
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ProfileDetailWindow.g.cs
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\RegisterWindow.g.cs
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ReportRejectionWindow.g.cs
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\TrafficPolice .g.cs
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\UpdateAccountWindow.g.cs
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\UserVehicleWindow.g.cs
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ViewDetailWindow.g.cs
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ViolationListWindow.g.cs
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\App.g.cs
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN_Content.g.cs
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN_MarkupCompile.cache
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN_MarkupCompile.lref
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\App.baml
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\LoginWindow.baml
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\TrafficPolice .baml
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.g.resources
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.AssemblyInfoInputs.cache
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.AssemblyInfo.cs
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.csproj.CoreCompileInputs.cache
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_.47B2846C.Up2Date
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\refint\PROJECT_PRN.dll
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.pdb
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.genruntimeconfig.cache
+C:\C# Coder\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ref\PROJECT_PRN.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\PROJECT_PRN.exe
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\appsettings.json
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\PROJECT_PRN.deps.json
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\PROJECT_PRN.runtimeconfig.json
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\PROJECT_PRN.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\PROJECT_PRN.pdb
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\TrafficViolation.BLL.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\TrafficViolation.DAL.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\TrafficViolation.BLL.pdb
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\bin\Debug\net8.0-windows\TrafficViolation.DAL.pdb
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.csproj.AssemblyReference.cache
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\CreateNotificationWindow.baml
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\DetailWindow.baml
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\FineInputWindow.baml
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ManageAccountWindow.baml
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\NotificationWindow.baml
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ProfileDetailWindow.baml
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\RegisterWindow.baml
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ReportRejectionWindow.baml
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\UpdateAccountWindow.baml
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\UserVehicleWindow.baml
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ViewDetailWindow.baml
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ViolationListWindow.baml
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\CreateNotificationWindow.g.cs
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\DetailWindow.g.cs
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\FineInputWindow.g.cs
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\LoginWindow.g.cs
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ManageAccountWindow.g.cs
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\NotificationWindow.g.cs
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ProfileDetailWindow.g.cs
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\RegisterWindow.g.cs
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ReportRejectionWindow.g.cs
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\TrafficPolice .g.cs
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\UpdateAccountWindow.g.cs
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\UserVehicleWindow.g.cs
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ViewDetailWindow.g.cs
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ViolationListWindow.g.cs
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\App.g.cs
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN_Content.g.cs
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN_MarkupCompile.cache
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN_MarkupCompile.lref
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\App.baml
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\LoginWindow.baml
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\TrafficPolice .baml
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.g.resources
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.AssemblyInfoInputs.cache
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.AssemblyInfo.cs
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.csproj.CoreCompileInputs.cache
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_.47B2846C.Up2Date
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\refint\PROJECT_PRN.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.pdb
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\PROJECT_PRN.genruntimeconfig.cache
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\ref\PROJECT_PRN.dll

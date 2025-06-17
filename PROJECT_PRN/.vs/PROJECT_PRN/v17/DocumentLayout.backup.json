@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Code C#\\PRN_PROJECT\\PRN_PROJECT\\PROJECT_PRN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1250B3E-C66F-4A89-AC26-BB02032A3B39}|PROJECT_PRN.csproj|c:\\code c#\\prn_project\\prn_project\\project_prn\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F1250B3E-C66F-4A89-AC26-BB02032A3B39}|PROJECT_PRN.csproj|solutionrelative:loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1250B3E-C66F-4A89-AC26-BB02032A3B39}|PROJECT_PRN.csproj|c:\\code c#\\prn_project\\prn_project\\project_prn\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1250B3E-C66F-4A89-AC26-BB02032A3B39}|PROJECT_PRN.csproj|solutionrelative:loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1250B3E-C66F-4A89-AC26-BB02032A3B39}|PROJECT_PRN.csproj|c:\\code c#\\prn_project\\prn_project\\project_prn\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F1250B3E-C66F-4A89-AC26-BB02032A3B39}|PROJECT_PRN.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\C# Coder\\PRN_PROJECT\\TrafficViolation.BLL\\Services\\ReportService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\C# Coder\\PRN_PROJECT\\TrafficViolation.DAL\\Repositories\\ReportRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\C# Coder\\PRN_PROJECT\\TrafficViolation.DAL\\Entities\\Vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\C# Coder\\PRN_PROJECT\\TrafficViolation.DAL\\Entities\\Report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\C# Coder\\PRN_PROJECT\\TrafficViolation.DAL\\Entities\\Notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\C# Coder\\PRN_PROJECT\\TrafficViolation.DAL\\PrnProjectContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\C# Coder\\PRN_PROJECT\\TrafficViolation.BLL\\Services\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\C# Coder\\PRN_PROJECT\\TrafficViolation.DAL\\Repositories\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Code C#\\PRN_PROJECT\\PRN_PROJECT\\PROJECT_PRN\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Code C#\\PRN_PROJECT\\PRN_PROJECT\\PROJECT_PRN\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-04T08:07:50.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Code C#\\PRN_PROJECT\\PRN_PROJECT\\PROJECT_PRN\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Code C#\\PRN_PROJECT\\PRN_PROJECT\\PROJECT_PRN\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:42:02.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\C# Coder\\PRN_PROJECT\\TrafficViolation.BLL\\Services\\ReportService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\C# Coder\\PRN_PROJECT\\TrafficViolation.BLL\\Services\\ReportService.cs",
+              "ToolTip": "C:\\C# Coder\\PRN_PROJECT\\TrafficViolation.BLL\\Services\\ReportService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\C# Coder\\PRN_PROJECT\\TrafficViolation.BLL\\Services\\ReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:41:26.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReportRepository.cs",
+              "DocumentMoniker": "C:\\C# Coder\\PRN_PROJECT\\TrafficViolation.DAL\\Repositories\\ReportRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\C# Coder\\PRN_PROJECT\\TrafficViolation.DAL\\Repositories\\ReportRepository.cs",
+              "ToolTip": "C:\\C# Coder\\PRN_PROJECT\\TrafficViolation.DAL\\Repositories\\ReportRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\C# Coder\\PRN_PROJECT\\TrafficViolation.DAL\\Repositories\\ReportRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:41:02.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\C# Coder\\PRN_PROJECT\\TrafficViolation.DAL\\Entities\\Vehicle.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\C# Coder\\PRN_PROJECT\\TrafficViolation.DAL\\Entities\\Vehicle.cs",
+              "ToolTip": "C:\\C# Coder\\PRN_PROJECT\\TrafficViolation.DAL\\Entities\\Vehicle.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\C# Coder\\PRN_PROJECT\\TrafficViolation.DAL\\Entities\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:40:57.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\C# Coder\\PRN_PROJECT\\TrafficViolation.DAL\\Entities\\Report.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\C# Coder\\PRN_PROJECT\\TrafficViolation.DAL\\Entities\\Report.cs",
+              "ToolTip": "C:\\C# Coder\\PRN_PROJECT\\TrafficViolation.DAL\\Entities\\Report.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\C# Coder\\PRN_PROJECT\\TrafficViolation.DAL\\Entities\\Report.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:40:56.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\C# Coder\\PRN_PROJECT\\TrafficViolation.DAL\\Entities\\Notification.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\C# Coder\\PRN_PROJECT\\TrafficViolation.DAL\\Entities\\Notification.cs",
+              "ToolTip": "C:\\C# Coder\\PRN_PROJECT\\TrafficViolation.DAL\\Entities\\Notification.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\C# Coder\\PRN_PROJECT\\TrafficViolation.DAL\\Entities\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:40:56.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PrnProjectContext.cs",
+              "DocumentMoniker": "C:\\C# Coder\\PRN_PROJECT\\TrafficViolation.DAL\\PrnProjectContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\C# Coder\\PRN_PROJECT\\TrafficViolation.DAL\\PrnProjectContext.cs",
+              "ToolTip": "C:\\C# Coder\\PRN_PROJECT\\TrafficViolation.DAL\\PrnProjectContext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\C# Coder\\PRN_PROJECT\\TrafficViolation.DAL\\PrnProjectContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:36:02.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\C# Coder\\PRN_PROJECT\\TrafficViolation.BLL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\C# Coder\\PRN_PROJECT\\TrafficViolation.BLL\\Services\\UserService.cs",
+              "ToolTip": "C:\\C# Coder\\PRN_PROJECT\\TrafficViolation.BLL\\Services\\UserService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\C# Coder\\PRN_PROJECT\\TrafficViolation.BLL\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:33:39.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\C# Coder\\PRN_PROJECT\\TrafficViolation.DAL\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\C# Coder\\PRN_PROJECT\\TrafficViolation.DAL\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\C# Coder\\PRN_PROJECT\\TrafficViolation.DAL\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\C# Coder\\PRN_PROJECT\\TrafficViolation.DAL\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:33:24.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Code C#\\PRN_PROJECT\\PRN_PROJECT\\PROJECT_PRN\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "LoginWindow.xaml",
+              "ToolTip": "C:\\Code C#\\PRN_PROJECT\\PRN_PROJECT\\PROJECT_PRN\\LoginWindow.xaml",
+              "RelativeToolTip": "LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-19T02:50:30.155Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

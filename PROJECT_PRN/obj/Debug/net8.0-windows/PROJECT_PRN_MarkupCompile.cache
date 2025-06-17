@@ -1,0 +1,20 @@
+﻿PROJECT_PRN
+
+
+winexe
+C#
+.cs
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\obj\Debug\net8.0-windows\
+PROJECT_PRN
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\PROJECT_PRN\App.xaml
+15-807807750
+1-913308027
+18-1513675467
+2361093962244
+CreateNotificationWindow.xaml;DetailWindow.xaml;FineInputWindow.xaml;LoginWindow.xaml;MainWindow.xaml;ManageAccountWindow.xaml;NotificationWindow.xaml;ProfileDetailWindow.xaml;RegisterWindow.xaml;ReportRejectionWindow.xaml;TrafficPolice .xaml;UpdateAccountWindow.xaml;UserVehicleWindow.xaml;ViewDetailWindow.xaml;ViolationListWindow.xaml;
+
+False
+

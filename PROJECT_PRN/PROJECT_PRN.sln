@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PROJECT_PRN", "PROJECT_PRN.csproj", "{F1250B3E-C66F-4A89-AC26-BB02032A3B39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrafficViolation.BLL", "..\TrafficViolation.BLL\TrafficViolation.BLL.csproj", "{0DC85946-E2F0-4844-996C-032F600826E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrafficViolation.DAL", "..\TrafficViolation.DAL\TrafficViolation.DAL.csproj", "{D40BFC65-C5E3-41DF-854D-DC617F98E2EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1250B3E-C66F-4A89-AC26-BB02032A3B39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1250B3E-C66F-4A89-AC26-BB02032A3B39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1250B3E-C66F-4A89-AC26-BB02032A3B39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1250B3E-C66F-4A89-AC26-BB02032A3B39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DC85946-E2F0-4844-996C-032F600826E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DC85946-E2F0-4844-996C-032F600826E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DC85946-E2F0-4844-996C-032F600826E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DC85946-E2F0-4844-996C-032F600826E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D40BFC65-C5E3-41DF-854D-DC617F98E2EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D40BFC65-C5E3-41DF-854D-DC617F98E2EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D40BFC65-C5E3-41DF-854D-DC617F98E2EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D40BFC65-C5E3-41DF-854D-DC617F98E2EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

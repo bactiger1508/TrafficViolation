@@ -1,0 +1,84 @@
+D:\PRN_PROJECT\TrafficViolation.DAL\bin\Debug\net8.0\TrafficViolation.DAL.deps.json
+D:\PRN_PROJECT\TrafficViolation.DAL\bin\Debug\net8.0\TrafficViolation.DAL.dll
+D:\PRN_PROJECT\TrafficViolation.DAL\bin\Debug\net8.0\TrafficViolation.DAL.pdb
+D:\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.AssemblyInfoInputs.cache
+D:\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.AssemblyInfo.cs
+D:\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.csproj.CoreCompileInputs.cache
+D:\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.dll
+D:\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\refint\TrafficViolation.DAL.dll
+D:\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.pdb
+D:\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\ref\TrafficViolation.DAL.dll
+D:\PRN_PROJECT\TrafficViolation.DAL\bin\Debug\net8.0\TrafficViolation.DAL.runtimeconfig.json
+D:\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.csproj.AssemblyReference.cache
+D:\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.genruntimeconfig.cache
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\TrafficViolation.DAL\bin\Debug\net8.0\TrafficViolation.DAL.deps.json
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\TrafficViolation.DAL\bin\Debug\net8.0\TrafficViolation.DAL.runtimeconfig.json
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\TrafficViolation.DAL\bin\Debug\net8.0\TrafficViolation.DAL.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\TrafficViolation.DAL\bin\Debug\net8.0\TrafficViolation.DAL.pdb
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.csproj.AssemblyReference.cache
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.AssemblyInfoInputs.cache
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.AssemblyInfo.cs
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.csproj.CoreCompileInputs.cache
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\refint\TrafficViolation.DAL.dll
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.pdb
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.genruntimeconfig.cache
+D:\PE\PRN_PROJECT (2)\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\ref\TrafficViolation.DAL.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\TrafficViolation.DAL\bin\Debug\net8.0\TrafficViolation.DAL.deps.json
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\TrafficViolation.DAL\bin\Debug\net8.0\TrafficViolation.DAL.runtimeconfig.json
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\TrafficViolation.DAL\bin\Debug\net8.0\TrafficViolation.DAL.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\TrafficViolation.DAL\bin\Debug\net8.0\TrafficViolation.DAL.pdb
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.AssemblyInfo.cs
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\refint\TrafficViolation.DAL.dll
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.pdb
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.genruntimeconfig.cache
+C:\Users\admin\Downloads\PRN_PROJECT (2)\PRN_PROJECT (2)\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\ref\TrafficViolation.DAL.dll
+D:\PE\FixDone\PRN_PROJECT\TrafficViolation.DAL\bin\Debug\net8.0\TrafficViolation.DAL.deps.json
+D:\PE\FixDone\PRN_PROJECT\TrafficViolation.DAL\bin\Debug\net8.0\TrafficViolation.DAL.runtimeconfig.json
+D:\PE\FixDone\PRN_PROJECT\TrafficViolation.DAL\bin\Debug\net8.0\TrafficViolation.DAL.dll
+D:\PE\FixDone\PRN_PROJECT\TrafficViolation.DAL\bin\Debug\net8.0\TrafficViolation.DAL.pdb
+D:\PE\FixDone\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.csproj.AssemblyReference.cache
+D:\PE\FixDone\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\PE\FixDone\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.AssemblyInfoInputs.cache
+D:\PE\FixDone\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.AssemblyInfo.cs
+D:\PE\FixDone\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.csproj.CoreCompileInputs.cache
+D:\PE\FixDone\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.dll
+D:\PE\FixDone\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\refint\TrafficViolation.DAL.dll
+D:\PE\FixDone\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.pdb
+D:\PE\FixDone\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.genruntimeconfig.cache
+D:\PE\FixDone\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\ref\TrafficViolation.DAL.dll
+C:\C# Coder\PRN_PROJECT\TrafficViolation.DAL\bin\Debug\net8.0\TrafficViolation.DAL.deps.json
+C:\C# Coder\PRN_PROJECT\TrafficViolation.DAL\bin\Debug\net8.0\TrafficViolation.DAL.runtimeconfig.json
+C:\C# Coder\PRN_PROJECT\TrafficViolation.DAL\bin\Debug\net8.0\TrafficViolation.DAL.dll
+C:\C# Coder\PRN_PROJECT\TrafficViolation.DAL\bin\Debug\net8.0\TrafficViolation.DAL.pdb
+C:\C# Coder\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.csproj.AssemblyReference.cache
+C:\C# Coder\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Coder\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.AssemblyInfoInputs.cache
+C:\C# Coder\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.AssemblyInfo.cs
+C:\C# Coder\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.csproj.CoreCompileInputs.cache
+C:\C# Coder\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.dll
+C:\C# Coder\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\refint\TrafficViolation.DAL.dll
+C:\C# Coder\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.pdb
+C:\C# Coder\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.genruntimeconfig.cache
+C:\C# Coder\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\ref\TrafficViolation.DAL.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\TrafficViolation.DAL\bin\Debug\net8.0\TrafficViolation.DAL.deps.json
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\TrafficViolation.DAL\bin\Debug\net8.0\TrafficViolation.DAL.runtimeconfig.json
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\TrafficViolation.DAL\bin\Debug\net8.0\TrafficViolation.DAL.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\TrafficViolation.DAL\bin\Debug\net8.0\TrafficViolation.DAL.pdb
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.csproj.AssemblyReference.cache
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.AssemblyInfoInputs.cache
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.AssemblyInfo.cs
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.csproj.CoreCompileInputs.cache
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\refint\TrafficViolation.DAL.dll
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.pdb
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\TrafficViolation.DAL.genruntimeconfig.cache
+C:\Code C#\PRN_PROJECT\PRN_PROJECT\TrafficViolation.DAL\obj\Debug\net8.0\ref\TrafficViolation.DAL.dll

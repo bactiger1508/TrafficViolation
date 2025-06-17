@@ -1,0 +1,36 @@
+﻿<Window x:Class="PROJECT_PRN.FineInputWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Enter Fine Amount" Height="200" Width="300"
+        WindowStartupLocation="CenterScreen">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Enter Fine Amount" 
+                   Grid.Row="0" 
+                   FontWeight="Bold" 
+                   Margin="0,0,0,10"/>
+
+        <TextBox x:Name="FineAmountTextBox" 
+                 Grid.Row="1" 
+                 Margin="0,0,0,10"
+                 PreviewTextInput="FineAmountTextBox_PreviewTextInput"/>
+
+        <StackPanel Grid.Row="3" 
+                    Orientation="Horizontal" 
+                    HorizontalAlignment="Right">
+            <Button Content="OK" 
+                    Width="69" 
+                    Margin="0,0,10,0" 
+                    Click="OKButton_Click" Height="29"/>
+            <Button Content="Cancel" 
+                    Width="77" 
+                    Click="CancelButton_Click" Height="29"/>
+        </StackPanel>
+    </Grid>
+</Window>

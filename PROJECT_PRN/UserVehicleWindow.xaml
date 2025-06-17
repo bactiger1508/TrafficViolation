@@ -1,0 +1,50 @@
+﻿<Window x:Class="PROJECT_PRN.UserVehicleWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="User Vehicle Management" Height="600" Width="800" Background="#F0F8FF" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded" >
+    <Grid>
+        <!-- Header -->
+        <Label Content="Vehicle Management" HorizontalAlignment="Center" VerticalAlignment="Top"
+               FontSize="24" FontWeight="Bold" Foreground="#FF4500" Margin="0,20,0,0"/>
+
+        <!-- Tabs -->
+        <TabControl x:Name="VehicleTabControl" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="20,60,20,100">
+            <!-- All Vehicles Tab -->
+            <TabItem Header="All Vehicles" x:Name="AllVehiclesTab">
+                <Grid>
+                    <DataGrid x:Name="AllVehiclesDataGrid" AutoGenerateColumns="False" Margin="10" IsReadOnly="True"
+                              CanUserAddRows="False" CanUserDeleteRows="False" SelectionMode="Single">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Plate Number" Binding="{Binding PlateNumber}" Width="*"/>
+                            <DataGridTextColumn Header="Brand" Binding="{Binding Brand}" Width="*"/>
+                            <DataGridTextColumn Header="Model" Binding="{Binding Model}" Width="*"/>
+                            <DataGridTextColumn Header="Year" Binding="{Binding ManufactureYear}" Width="*"/>
+                            <DataGridTextColumn Header="FullName" Binding="{Binding FullName}" Width="*"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </Grid>
+            </TabItem>
+
+            <!-- My Vehicles Tab -->
+            <TabItem Header="My Vehicles" x:Name="MyVehiclesTab">
+                <Grid>
+                    <DataGrid x:Name="MyVehiclesDataGrid" AutoGenerateColumns="False" Margin="10" IsReadOnly="True"
+                              CanUserAddRows="False" CanUserDeleteRows="False" SelectionMode="Single">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Plate Number" Binding="{Binding PlateNumber}" Width="*"/>
+                            <DataGridTextColumn Header="Brand" Binding="{Binding Brand}" Width="*"/>
+                            <DataGridTextColumn Header="Model" Binding="{Binding Model}" Width="*"/>
+                            <DataGridTextColumn Header="Year" Binding="{Binding ManufactureYear}" Width="*"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </Grid>
+            </TabItem>
+        </TabControl>
+
+        <!-- Back Button -->
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,0,0,20">
+            <Button Content="Back" Width="100" Height="40" Background="#FF8C00" Foreground="White"
+                    Click="BackButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

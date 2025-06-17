@@ -1,0 +1,40 @@
+﻿<Window x:Class="PROJECT_PRN.DetailWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="DetailWindow" Height="700" Width="800" Background="#F0F8FF" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Loaded="Window_Loaded" KeyDown="Window_KeyDown">
+    <Grid>
+        <!-- Header Label -->
+        <Label x:Name="DetailWindowModeLabel" Content="YOUR CREATE/UPDATE REPORT FORM" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Style="{StaticResource HeaderLabelStyle}"/>
+
+        <!-- Form Fields -->
+        <Label Content="ReporterID:" HorizontalAlignment="Left" Margin="38,97,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="UserIDTextBox" HorizontalAlignment="Left" Margin="175,99,0,0" VerticalAlignment="Top" Width="567" Height="30" BorderBrush="#FF8C00" BorderThickness="1"/>
+
+        <Label Content="ViolationType:" HorizontalAlignment="Left" Margin="38,136,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="ViolationTypeTextBox" HorizontalAlignment="Left" Margin="175,138,0,0" VerticalAlignment="Top" Width="567" Height="30" BorderBrush="#FF8C00" BorderThickness="1"/>
+
+        <Label Content="PlateNumber:" HorizontalAlignment="Left" Margin="40,175,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="PlateNumberTextBox" HorizontalAlignment="Left" Margin="175,179,0,0" VerticalAlignment="Top" Width="567" Height="30" BorderBrush="#FF8C00" BorderThickness="1"/>
+
+        <Label Content="ImageURL:" HorizontalAlignment="Left" Margin="38,214,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="ImageUrlTextBox" HorizontalAlignment="Left" Margin="175,218,0,0" VerticalAlignment="Top" Width="567" Height="30" BorderBrush="#FF8C00" BorderThickness="1"/>
+
+        <Label Content="VideoURL:" HorizontalAlignment="Left" Margin="38,413,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="VideoUrlTextBox" HorizontalAlignment="Left" Margin="175,415,0,0" VerticalAlignment="Top" Width="567" Height="30" BorderBrush="#FF8C00" BorderThickness="1"/>
+
+        <Label Content="Location:" HorizontalAlignment="Left" Margin="38,452,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="LocationTextBox" HorizontalAlignment="Left" Margin="175,456,0,0" VerticalAlignment="Top" Width="567" Height="30" BorderBrush="#FF8C00" BorderThickness="1"/>
+
+        <Label Content="Description:" HorizontalAlignment="Left" Margin="38,495,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="DescriptionTextBox" HorizontalAlignment="Left" Margin="175,495,0,0" VerticalAlignment="Top" Width="567" Height="34" BorderBrush="#FF8C00" BorderThickness="1"/>
+
+        <!-- Image and Buttons -->
+        <Image x:Name="ImageViolation" Height="154" Margin="258,253,258,0" VerticalAlignment="Top" Width="283"/>
+        <Button x:Name="AddImageButton" FontSize="12" Content="Add Image" HorizontalAlignment="Left" Margin="604,287,0,0" VerticalAlignment="Top" Click="AddImageButton_Click" Background="#FF8C00" Foreground="White" BorderBrush="#FF4500" BorderThickness="1" Width="113" Height="36"/>
+        <Button Content="Remove" FontSize="12" HorizontalAlignment="Left" Margin="618,342,0,0" VerticalAlignment="Top" Click="RemoveImageButton_Click" Background="#FF4500" Foreground="White" BorderBrush="White" BorderThickness="1" Height="37" Width="86"/>
+
+        <!-- Action Buttons -->
+        <Button x:Name="SaveButton" Content="Save Report" HorizontalAlignment="Center" Margin="0,560,0,0" VerticalAlignment="Top" Width="208" Click="SaveButton_Click" Height="59" Background="#FF8C00" Foreground="White"/>
+        <Button x:Name="CloseButton" Content="Close" HorizontalAlignment="Left" Margin="684,623,0,0" VerticalAlignment="Top" Click="CloseButton_Click" Background="#FF4500" Foreground="White" Height="36" Width="72"/>
+    </Grid>
+</Window>
